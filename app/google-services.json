@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980473892612",
+    "project_id": "pr20dvoianov",
+    "storage_bucket": "pr20dvoianov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980473892612:android:09fee6478daff886ab4a51",
+        "android_client_info": {
+          "package_name": "com.example.pr20dvoianov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5B3m8F-Na9SrciVvD_xM2Jzqkhw_FOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
